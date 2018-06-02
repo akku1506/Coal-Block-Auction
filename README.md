@@ -61,8 +61,8 @@ The first line is the company id (cid) and the total number of bids made this co
 ### Output Format:
 ```
 The output of code (the winning bids) is written to a text file is provided as a command argument in the following format:
-	
-	revenue bid-id bid-id ... bid-id
+
+revenue bid-id bid-id ... bid-id
 ```
 
 For the example problem, this would be
